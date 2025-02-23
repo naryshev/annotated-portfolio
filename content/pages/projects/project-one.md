@@ -7,7 +7,7 @@ client: Jaaynice
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/600x600bb-60.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
