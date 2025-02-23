@@ -1,29 +1,27 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Emotionless Album
 colors: colors-a
-date: '2021-10-15'
-client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+date: '2023-03-17'
+client: Jaaynice
+description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/600x600bb-60.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/600x600bb-60.jpg
   altText: Project image
 ---
+"Emotionless" by Jaaynice is a deeply introspective hip-hop/rap album that captures raw emotions and personal struggles through a mix of melodic flows and hard-hitting lyricism. Released on March 17, 2023, the project features seven tracks that explore themes of heartbreak, resilience, and self-discovery. Each song carries a distinct vibe, blending smooth beats with Jaaynice’s passionate delivery, making for a compelling listen that resonates with fans of emotionally charged rap music.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+From start to finish, "Emotionless" takes listeners on a journey through the highs and lows of Jaaynice’s experiences.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+> They say the world is mine, but I been gone . . . In every occasion I gotta stay patient . . . "
+>
+> \- Jaaynice (Around time)
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+The artist masterfully balances vulnerability with confidence, delivering verses that feel both personal and universally relatable. With a production style that incorporates moody instrumentals and hypnotic rhythms, the album creates an immersive atmosphere that pulls listeners into Jaaynice’s world. Standout tracks showcase his ability to switch between melodic hooks and sharp, introspective bars, demonstrating his versatility as an artist.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
-
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
-
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Beyond its sonic appeal, "Emotionless" is a statement of growth and perseverance. Jaaynice uses the album as a platform to process pain, channel emotions, and ultimately rise above life’s challenges. His storytelling approach ensures that each track leaves an impact, giving fans insight into his mindset and artistic evolution. Whether you're drawn to its heartfelt lyrics, smooth beats, or overall vibe, "Emotionless" cements Jaaynice as an artist with both substance and style.
