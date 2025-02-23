@@ -212,7 +212,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: C++
+        label: Python
       - type: Label
         label: Swift
   - type: DividerSection
