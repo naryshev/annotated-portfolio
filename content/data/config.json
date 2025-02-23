@@ -76,7 +76,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "3109853806",
+            "phoneNumber": "",
             "phoneAltText": "My phone number",
             "email": "chefxaniel@gmail.com",
             "emailAltText": "My email",
