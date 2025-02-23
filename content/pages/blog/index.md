@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/ocean.gif
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: no-repeat
+  backgroundRepeat: repeat
   opacity: 94
 postFeed:
   type: PostFeedSection
