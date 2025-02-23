@@ -13,8 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |
-      yo, im a developer.
+    text: ''
     media:
       type: ImageBlock
       url: /images/GcFe1RbX0AAYOcd.jpg
