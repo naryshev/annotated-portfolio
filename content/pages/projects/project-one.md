@@ -18,7 +18,7 @@ media:
 
 From start to finish, "Emotionless" takes listeners on a journey through the highs and lows of Jaaynice’s experiences.
 
-> They say the world is mine, but i been gone . . . In every occasion I gotta stay patient . . . " 
+> They say the world is mine, but I been gone . . . In every occasion I gotta stay patient . . . "
 >
 > \- Jaaynice (Around time)
 
