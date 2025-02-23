@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/ocean.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,14 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: |
+      yo, im a developer.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/GcFe1RbX0AAYOcd.jpg
       altText: Hero image
     styles:
       self:
@@ -211,15 +208,11 @@ sections:
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: Next.js
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
+        label: Python
       - type: Label
         label: Swift
   - type: DividerSection
@@ -347,7 +340,7 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: 'Let’s talk... '
     colors: colors-f
     form:
       type: FormBlock
@@ -386,7 +379,7 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: 'Submit '
       styles:
         submitLabel:
           textAlign: center
