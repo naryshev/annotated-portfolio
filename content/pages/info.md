@@ -195,8 +195,6 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
         label: React
       - type: Label
         label: Next.js
@@ -206,6 +204,8 @@ sections:
         label: Python
       - type: Label
         label: Swift
+      - type: Label
+        label: 'WEB 1, 2, 3'
   - type: DividerSection
     styles:
       self:
