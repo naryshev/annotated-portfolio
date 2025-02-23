@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Jaaynice - Emotionless
 colors: colors-a
 date: '2023-03-17'
-client: Awesome client
+client: Jaaynice
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
