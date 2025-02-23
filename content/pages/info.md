@@ -13,7 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: ''
+    text: |
+      Developer, Engineer, Producer, 
     media:
       type: ImageBlock
       url: /images/GcFe1RbX0AAYOcd.jpg
