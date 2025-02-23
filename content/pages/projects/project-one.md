@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Jaaynice - Emotionless
+title: Emotionless Album
 colors: colors-a
 date: '2023-03-17'
 client: Jaaynice
