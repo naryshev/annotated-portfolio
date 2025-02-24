@@ -80,11 +80,6 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
         - type: TextareaFormControl
           name: message
           label: Message
@@ -92,6 +87,11 @@ sections:
           placeholder: Type your message here
           width: full
           isRequired: false
+        - name: updatesConsent
+          label: Sign me up to recieve updates
+          isRequired: false
+          width: full
+          type: CheckboxFormControl
       submitLabel: 'Submit '
       styles:
         submitLabel:
