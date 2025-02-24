@@ -30,64 +30,36 @@ styles:
     textAlign: left
 bottomSections:
   - type: ContactSection
-    backgroundSize: full
-    title: 'Let’s talk... '
-    colors: colors-f
+    title: Subscribe
+    text: Join my newsletter to stay up-to-date
     form:
       type: FormBlock
-      elementId: sign-up-form
+      title: Title of the form
       fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
+        - type: EmailFormControl
+          name: email
+          label: Name
+          hideLabel: false
+          placeholder: Your email
           width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+          isRequired: 'true'
+      submitLabel: Sign Up
+      elementId: contact-form
       styles:
         submitLabel:
-          textAlign: center
+          textAlign: left
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
         padding:
-          - pt-24
-          - pb-24
-          - pr-4
+          - pt-28
+          - pb-36
           - pl-4
+          - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: row
