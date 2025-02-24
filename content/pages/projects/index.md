@@ -49,7 +49,7 @@ bottomSections:
         submitLabel:
           textAlign: left
     colors: colors-e
-    backgroundSize: inset
+    backgroundSize: full
     elementId: ''
     styles:
       self:
