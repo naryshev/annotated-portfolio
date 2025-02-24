@@ -1,11 +1,10 @@
 ---
 type: PostLayout
-title: How I started a startup 🚀
+title: 'How I started a startup '
 colors: colors-a
-date: '2021-06-28'
+date: '2025-02-23'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: 'Building a Mobile Studio Startup: From Concept to Creation'
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
@@ -51,7 +50,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -109,19 +108,17 @@ bottomSections:
       text:
         textAlign: left
 ---
+The idea for a mobile studio startup came from recognizing how many artists, producers, and content creators struggle to access professional recording spaces. I wanted to create a flexible, on-the-go solution that would allow musicians to record high-quality audio from virtually anywhere. After researching mobile setups and testing different configurations, I invested in compact, high-end recording equipment that could fit into a portable rig. My goal was to offer a full studio experience without the limitations of a fixed location.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+To get started, I built relationships with independent artists, podcasters, and influencers who needed recording services but lacked the resources to rent traditional studios. I offered on-demand sessions, setting up in homes, Airbnb rentals, and even outdoor locations to match the artist’s creative vision. Word-of-mouth and social media marketing helped generate buzz, and soon, my mobile studio was booking consistent sessions.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+One of the biggest challenges was optimizing sound quality in unpredictable environments. I experimented with soundproofing techniques, portable vocal booths, and digital mixing solutions to ensure every session maintained a professional sound. As the business grew, I started expanding my services to include live recording sessions, mobile podcast production, and content creation support. What began as a simple idea became a fully functional mobile studio, helping creatives bring their projects to life—anytime, anywhere.
 
-## About Coding
+As the business expanded, I started refining my mobile setup to enhance efficiency and professionalism. Investing in better gear, like high-quality microphones, portable acoustic treatment, and a streamlined digital workflow, made a huge difference. I also developed a system for quick setup and breakdown, allowing me to operate in a variety of locations without compromising sound quality. Clients appreciated the flexibility, and soon, I was booking sessions with not just indie artists but also established musicians and content creators looking for a unique recording experience.
 
-> “Coding is the language of the future, and every girl should learn it. As I've learned from watching girls grow and learn in our classrooms, coding is fun, collaborative and creative.”
+Marketing played a crucial role in growing the startup. I leveraged Instagram, TikTok, and YouTube to showcase behind-the-scenes footage of mobile sessions, testimonials from clients, and snippets of completed projects. Collaborations with local artists helped spread the word, and soon, the brand developed a reputation for delivering high-quality recordings on demand. I also explored partnerships with event organizers, offering on-site recording booths for live performances, cyphers, and pop-up podcast sessions, further diversifying my client base.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Looking back, launching this mobile studio was about more than just providing a service—it was about redefining how and where music could be created. The ability to bring the studio to the artist, rather than the other way around, broke down barriers and made professional recording accessible to a wider audience. With plans to expand, including adding more mobile units and hiring a small team, the future of the business looks promising. What started as a passion project has grown into something that’s changing the way people approach recording, and I can't wait to see where it goes next.
 
-## Productivity
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
