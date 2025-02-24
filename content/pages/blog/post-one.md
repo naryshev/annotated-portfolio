@@ -2,7 +2,7 @@
 type: PostLayout
 title: 'How I started a startup '
 colors: colors-a
-date: '2021-06-28'
+date: '2025-02-23'
 author: content/data/team/doris-soto.json
 excerpt: 'Building a Mobile Studio Startup: From Concept to Creation'
 featuredImage:
