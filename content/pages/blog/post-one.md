@@ -10,7 +10,7 @@ featuredImage:
   url: /images/Xaniel-logo-white.png
   altText: Post thumbnail image
 media:
-  url: /images/post-2.jpg
+  url: /images/Xaniel-logo-white.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
