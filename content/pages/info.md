@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: |
-      yo, im a developer.
+      Developer, Engineer, Producer, 
     media:
       type: ImageBlock
       url: /images/GcFe1RbX0AAYOcd.jpg
@@ -136,32 +136,23 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: Instagram
             url: 'https://www.instagram.com/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions: []
         styles:
           self:
             textAlign: left
@@ -204,8 +195,6 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
         label: React
       - type: Label
         label: Next.js
@@ -215,6 +204,8 @@ sections:
         label: Python
       - type: Label
         label: Swift
+      - type: Label
+        label: 'WEB 1, 2, 3'
   - type: DividerSection
     styles:
       self:
@@ -240,99 +231,6 @@ sections:
         padding:
           - pt-8
           - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
