@@ -32,7 +32,7 @@ As a producer, I’ve always uploaded beats to YouTube, hoping they’d find the
 
 One day, while casually Googling my name, I stumbled across "A Lot" by SageTwoFour on Apple Music. At first, I thought it was just a coincidence, but after listening, I immediately recognized my beat. Seeing my work transformed into a full-fledged song was surreal. It was my first real producer credit, and hearing my name attached to an official release gave me a sense of validation I hadn’t felt before.
 
-Shortly after, I found out there was a full music video for "A Lot" on YouTube. Watching it, I saw how SageTwoFour took my instrumental and built an entire vision around it. The song had officially taken on a life of its own, and it all started with me posting a beat online. This experience not only solidified my confidence as a producer but also proved the power of YouTube as a platform for discovery. Now, I’m more motivated than ever to keep creating and putting my work out there—who knows what could happen next?
+Shortly after, I found out there was a full music video for "A Lot" on YouTube. Watching it, I saw how SageTwoFour took my instrumental and built an entire vision around it. The song had officially taken on a life of its own, and it all started with me posting a beat online. This experience not only solidified my confidence as a producer but also proved the power of YouTube as a platform for discovery. Now, I’m more motivated than ever to keep creating and putting my work out there - who knows what could happen next?
 
 Watch the official music video: [A Lot - SageTwoFour](https://www.youtube.com/watch?v=Zcq1shNb_II)
 
