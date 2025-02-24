@@ -4,7 +4,7 @@ title: One more cool project
 colors: colors-a
 date: '2021-09-12'
 client: SageTwoFour
-description: ''
+description: 'From YouTube Beat to First Producer Credit: The Story Behind "A Lot"'
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
