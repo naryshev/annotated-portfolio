@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: 'Building a Mobile Studio Startup: From Concept to Creation'
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: /images/Xaniel-logo-white.png
   altText: Post thumbnail image
 media:
   url: /images/post-2.jpg
