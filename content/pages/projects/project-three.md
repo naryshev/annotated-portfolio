@@ -3,7 +3,7 @@ type: ProjectLayout
 title: One more cool project
 colors: colors-a
 date: '2021-09-12'
-client: Awesome client
+client: SageTwoFour
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
