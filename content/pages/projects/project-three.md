@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Laying The Groudwork
 colors: colors-a
 date: '2021-09-12'
 client: SageTwoFour
