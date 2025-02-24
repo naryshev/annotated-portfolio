@@ -13,20 +13,7 @@ media:
   type: ImageBlock
   url: /images/Zcq1shNb_II-HD.jpg
   altText: Project image
-bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
+bottomSections: []
 ---
 As a producer, I’ve always uploaded beats to YouTube, hoping they’d find the right ears. One of my instrumentals started gaining unexpected traction, racking up views and comments from aspiring artists. I had no idea that this beat would end up in the hands of SageTwoFour, who discovered it through YouTube and turned it into a full track. When I first saw the engagement on the beat, I knew something was brewing—but I didn’t expect what came next.
 
