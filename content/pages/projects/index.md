@@ -48,7 +48,7 @@ bottomSections:
       styles:
         submitLabel:
           textAlign: left
-    colors: colors-e
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
