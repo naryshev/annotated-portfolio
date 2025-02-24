@@ -4,7 +4,7 @@ title: 'How I started a startup '
 colors: colors-a
 date: '2021-06-28'
 author: content/data/team/doris-soto.json
-excerpt: ''
+excerpt: 'Building a Mobile Studio Startup: From Concept to Creation'
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
