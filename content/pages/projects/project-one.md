@@ -20,7 +20,7 @@ From start to finish, "Emotionless" takes listeners on a journey through the hig
 
 > They say the world is mine, but I been gone . . . In every occasion I gotta stay patient . . . "
 >
-> \- Jaaynice (Around Town)
+> \- Jaaynice (Around time)
 
 The artist masterfully balances vulnerability with confidence, delivering verses that feel both personal and universally relatable. With a production style that incorporates moody instrumentals and hypnotic rhythms, the album creates an immersive atmosphere that pulls listeners into Jaaynice’s world. Standout tracks showcase his ability to switch between melodic hooks and sharp, introspective bars, demonstrating his versatility as an artist.
 
