@@ -51,6 +51,7 @@ sections:
     form:
       type: FormBlock
       elementId: sign-up-form
+      data-netlify: true
       fields:
         - name: firstName
           label: First Name
