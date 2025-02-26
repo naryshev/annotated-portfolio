@@ -4,7 +4,7 @@ title: Blog
 colors: colors-c
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg.jpg
+  url: /images/ocean.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
